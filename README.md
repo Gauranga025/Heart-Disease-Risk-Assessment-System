@@ -170,7 +170,7 @@ streamlit run app.py
 
 ## 👨‍💻 Author
 
-**Gauranga Debata**
+**Sarthak Debata**
 
 B.Tech, Electronics & Instrumentation Engineering
 National Institute of Technology Rourkela
