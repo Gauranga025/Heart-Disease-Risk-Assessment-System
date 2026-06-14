@@ -140,7 +140,7 @@ streamlit run app.py
 
 ## 📸 Application Preview
 
-Add screenshots of the deployed application here.
+![CardioRisk AI Dashboard](home.png)
 
 ### Home Screen
 
