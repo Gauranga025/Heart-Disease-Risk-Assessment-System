@@ -11,7 +11,7 @@ The system enables users to enter clinical information such as age, blood pressu
 ## 🚀 Live Demo
 
 🔗 **Deployed Application:**
-https://heart-disease-risk-assessment-system-sarthakdebata.streamlit.app/
+https://heart-disease-risk-assessment-system-bysarthak.streamlit.app/
 
 ---
 
